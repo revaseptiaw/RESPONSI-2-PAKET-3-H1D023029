@@ -14,6 +14,7 @@ Aplikasi ini merupakan sistem manajemen inventori buku dengan fitur CRUD lengkap
 ---
 
 ## Video Demo Aplikasi
+https://github.com/user-attachments/assets/53710818-b055-4724-a7dc-c0dae783997d
 
 ---
 
