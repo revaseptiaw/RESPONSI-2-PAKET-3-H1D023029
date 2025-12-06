@@ -109,7 +109,7 @@ app.post('/login', async (req, res) => {
 Fungsi ini melakukan autentikasi user berdasarkan email dan password. Jika valid, informasi user dikirimkan sebagai respons.
 
 
-### Penjelasan Kode Frontend
+## Penjelasan Kode Frontend
 ### 1. Fungsi loadBooks
 ```js
 async function loadBooks() {
